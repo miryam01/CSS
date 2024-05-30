@@ -1,0 +1,68 @@
+#1
+* {
+    /* estilos */
+}
+#2
+p {
+    /* estilos */
+}
+#3
+#title-1 {
+    /* estilos */
+}
+#4
+.bg-yellow {
+    /* estilos */
+}
+#5
+[id] {
+    /* estilos */
+}
+#6
+[id="title-1"] {
+    /* estilos */
+}
+#7
+[href="https://www.yahoo.com"] {
+    /* estilos */
+}
+#8
+[class^="title"] {
+    /* estilos */
+}
+#9
+[href$=".com"] {
+    /* estilos */
+}
+#10
+[class~="title"] {
+    /* estilos */
+}
+#11
+[href*="127"] {
+    /* estilos */
+}
+#12
+[href^="http"] {
+    /* estilos */
+}
+#13
+a, p, h1 {
+    /* estilos */
+}
+#14
+main p {
+    /* estilos */
+}
+#15
+h1 + * {
+    /* estilos */
+}
+#16
+h1 ~ * {
+    /* estilos */
+}
+#17
+main > * {
+    /* estilos */
+}
